@@ -1,0 +1,289 @@
+   /* 320px to 420px Smaller-Devices starts */
+
+   @media (min-width:0px) and (max-width:450px) {
+
+
+       body {
+           width: auto;
+       }
+
+       .top-tittle1 {
+           font-size: 14px;
+
+       }
+
+       .top-tittle2 {
+           font-size: 14px;
+           margin-top: -0px;
+       }
+
+       .top-tittle3 {
+           font-size: 14px;
+           margin-top: -17px;
+       }
+
+       .top-tittle4 {
+           font-size: 14px;
+           margin-top: -17px;
+       }
+
+       .menue {
+           display: flex;
+       }
+
+       .menu2 {
+           margin-top: 15px;
+           z-index: 2;
+           color: black;
+           background-color: #fff;
+           height: 320px;
+
+
+       }
+
+       .nav-logos {
+           display: flex;
+           justify-content: center;
+           justify-content: space-evenly;
+       }
+
+       .search-bar {
+           display: none;
+       }
+
+
+
+       .swiper1 {
+           width: 100%;
+
+
+
+
+       }
+
+       .swiper1 img {
+
+           object-fit: fill;
+           width: 100%;
+
+
+       }
+
+       .swiper-button-next {
+           display: none;
+       }
+
+       .swiper-button-prev {
+           display: none;
+       }
+
+       .ebs {
+           display: flex;
+           justify-content: center;
+           width: 80%;
+       }
+
+       picture source {
+           object-fit: fill;
+       }
+
+       .bs h3 {
+           margin-top: 12px;
+           font-size: 30px;
+
+       }
+
+       .tf h3 {
+
+           margin-left: -37px;
+
+           width: 85px;
+       }
+
+       .daily-deals img {
+           width: 97%;
+           height: 80px;
+border-radius: 20px;
+       }
+
+
+       .countdown {
+
+
+
+           width: 400px;
+           height: 500px;
+
+
+
+       }
+
+       .countdown p {
+           position: relative;
+           left: -380px;
+           top: 30px;
+           color: white;
+           font-size: 20px;
+           font-weight: bold;
+       }
+       .sbc{
+        width: auto;
+       margin-left: -50px;
+      
+       }
+.sbc h3{
+    
+    
+}
+
+.newLaunches {
+
+ 
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+.newLaunches h3 {
+
+    font-size: 30px;
+
+}
+.All_Cards2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.img4_main {
+
+
+   display: flex;
+   gap: 0px;
+  
+   
+ 
+
+}
+.img4_main img{
+
+height: 50px;
+width: 50px;
+
+}
+.img4_main h4{
+
+font-size: 10px!important;
+
+
+}
+
+.imggc1 {
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.emptyimg4{
+    display: none;
+}
+.JTT{
+    margin-left: -20px!important;
+}
+
+.SBLS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.SBLS h3{
+    font-size: 30px;
+    
+    
+}
+.cards_3_Main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.BOB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+    
+    
+}
+.BOB h3{
+    font-size: 30px;
+    
+    
+}
+
+.navbar2{
+    display: none;
+}
+
+
+
+.inpt{
+    margin-left: -35px;
+}
+
+
+.tit_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+}
+.logos{
+
+}
+.footer{
+    display: none;
+}
+
+.footer2{
+    display: none;
+}
+.footer3{
+    display: none;
+}
+
+
+
+   }
+
+
+
+   /* 320px to 420px Smaller-Devices Ends */
+
+
+
+   /* 420px to 600px Mobile-Phones starts */
+   /* @media (min-width:320px) and (max-width:420px) { */
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* } */
+   /* 420px to 600px Mobile-Phones Ends */
